@@ -1,1 +1,7 @@
+.navbar .container-xl {
+    align-items: baseline;
+}
 
+small {
+    font-size: 0.8em;
+}
